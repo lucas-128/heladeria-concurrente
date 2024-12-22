@@ -266,7 +266,3 @@ Para modulos comunes:
 
 - Build: `cargo doc  `
 - Open: `cargo doc --open`
-
-## Video de presentación del trabajo:
-
-Se puede acceder al video de la entrega usando el siguiente link: <link> https://drive.google.com/file/d/1BOta6_c_Ede7i6S9CEKx4wzgFCQ0jB_v/edit
